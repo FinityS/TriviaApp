@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="questionOne">How many planets are in the solar system.</string>
+    <string name="one_answerOne">9</string>
+    <string name="one_answerTwo">8</string>
+    <string name="one_answerThree">10</string>
+    <string name="one_answerFour">7</string>
+
+    <!--  Question Two -->
+
+    <string name="questionTwo">How many sedarim in the mishna?</string>
+    <string name="two_answerOne">7</string>
+    <string name="two_answerTwo">5</string>
+    <string name="two_answerThree">4</string>
+    <string name="two_answerFour">6</string>
+
+    <!--  Question Three -->
+
+    <string name="questionThree">How many tractates in the whole Shas?</string>
+    <string name="three_answerOne">59</string>
+    <string name="three_answerTwo">60</string>
+    <string name="three_answerThree">62</string>
+    <string name="three_answerFour">63</string>
+
+
+    <!--  Question Four -->
+
+    <string name="questionFour">This masechta was originally part of another one.</string>
+    <string name="four_answerOne">Makkos</string>
+    <string name="four_answerTwo">Brachos</string>
+    <string name="four_answerThree">Nazir</string>
+    <string name="four_answerFour">Sanhendrin</string>
+
+    <!--  Question Five -->
+
+    <string name="questionFive">Who was the nassi hador before the Baal Shem Tov?</string>
+    <string name="five_answerOne">Baal Haturim</string>
+    <string name="five_answerTwo">Rashi</string>
+    <string name="five_answerThree">Arizal</string>
+    <string name="five_answerFour">Ohr Hachaim</string>
+
+    <!--  Question Six -->
+
+    <string name="questionSix">Which of the following is the lightest particle?</string>
+    <string name="six_answerOne">Neutron</string>
+    <string name="six_answerTwo">Proton</string>
+    <string name="six_answerThree">Electron</string>
+    <string name="six_answerFour">Neutrino</string>
+
+    <string name="Correct_Answer">Good job!!</string>
+    <string name="Wrong_Answer">Whoops..</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="empty_toast">Select an answer.</string>
+</resources>
