@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private RadioButton radioThree;
     private RadioButton radioFour;
 
-    private QuestionAnswer[] triviaArray = new QuestionAnswer[NUMBER_OF_QUESTIONS];
+   // private QuestionAnswer[] triviaArray = new QuestionAnswer[NUMBER_OF_QUESTIONS];
 
     private int currentQuestion = 0;
     private int totalCorrect = 0;
