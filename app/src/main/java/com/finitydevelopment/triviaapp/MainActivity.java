@@ -48,6 +48,10 @@ public class MainActivity extends AppCompatActivity {
 
         //Fisher–Yates shuffle array function
 
+        //Let's do this baby
+
+        int x =0;
+
     }
 
     private void shuffleArray(QuestionAnswer[] array)
